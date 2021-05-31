@@ -37,8 +37,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.37736518"
-     inkscape:cx="585.57477"
-     inkscape:cy="195.07506"
+     inkscape:cx="460.31573"
+     inkscape:cy="415.76987"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -207,29 +207,6 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.86154px;line-height:1.25;font-family:MathJax_Size1;-inkscape-font-specification:MathJax_Size1;letter-spacing:0px;word-spacing:0px;opacity:0.645;fill:#4be675;fill-opacity:1;stroke:#4c6151;stroke-width:2.72682;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="210.41235"
-       y="214.3063"
-       id="text928-4"><tspan
-         sodipodi:role="line"
-         id="tspan926-7"
-         x="210.41235"
-         y="214.3063"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.3356px;font-family:'Noto Sans Symbols';-inkscape-font-specification:'Noto Sans Symbols';fill:#4be675;fill-opacity:1;stroke:#4c6151;stroke-width:2.72682;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
-           style="fill:none;stroke:#4c6151;stroke-width:2.72682;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="tspan2693"><tspan
-             style="stroke:#19b021;stroke-width:2.72682;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             id="tspan2708">P</tspan><tspan
-             style="stroke:#c90706;stroke-width:2.72682;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             id="tspan2706">o</tspan><tspan
-             style="stroke:#eade18;stroke-width:2.72682;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             id="tspan2704">w</tspan><tspan
-             style="stroke:#18beea;stroke-width:2.72682;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             id="tspan2702">e</tspan></tspan><tspan
-           id="tspan2700"
-           style="opacity:0.645244;fill:none;fill-opacity:1;stroke:#ea18ce;stroke-width:2.72682;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">r</tspan></tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.89698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.227235;stroke-miterlimit:4;stroke-dasharray:none"
        x="271.26645"
        y="222.6554"
@@ -261,5 +238,26 @@
          x="113.70887"
          y="215.12575"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.3356px;font-family:'Noto Sans Symbols';-inkscape-font-specification:'Noto Sans Symbols';fill:#1a1a1a;fill-opacity:1;stroke:#ffffff;stroke-width:0.908939;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"> ZSH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.86154px;line-height:1.25;font-family:MathJax_Size1;-inkscape-font-specification:MathJax_Size1;letter-spacing:0px;word-spacing:0px;opacity:0.645;fill:#4be675;fill-opacity:1;stroke:#4c6151;stroke-width:0.908939;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="197.87109"
+       y="214.93903"
+       id="text928-4-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan926-7-6-9"
+         x="197.87109"
+         y="214.93903"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.3356px;font-family:'Noto Sans Symbols';-inkscape-font-specification:'Noto Sans Symbols';fill:#1a1a1a;fill-opacity:1;stroke:#ffffff;stroke-width:0.908939;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"> <tspan
+   style="fill:#15bd19;fill-opacity:1"
+   id="tspan918">P</tspan><tspan
+   style="fill:#c93131;fill-opacity:1"
+   id="tspan947">o</tspan><tspan
+   style="fill:#eff044;fill-opacity:1"
+   id="tspan987">w</tspan><tspan
+   style="fill:#28aad5;fill-opacity:1"
+   id="tspan1015">e</tspan><tspan
+   style="fill:#d539c8;fill-opacity:1"
+   id="tspan1031">r</tspan></tspan></text>
   </g>
 </svg>
