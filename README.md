@@ -1,8 +1,8 @@
 <h1 align="center">
   <a href="https://snakypy.netlify.app/">
-    <img alt="snakypy" src="https://raw.githubusercontent.com/snakypy/design/master/snakypy/images/snakypy.png" width="350">
+    <img alt="snakypy" src="https://raw.githubusercontent.com/snakypy/design/master/snakypy/images/snakypy-banner.png" width="auto">
   </a>
-  <br> Snakypy Design<br>
+  <br> Snakypy Assets<br>
 </h1>
 <br>
 
