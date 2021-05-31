@@ -8,9 +8,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1366"
-   height="768"
-   viewBox="0 0 361.42083 203.20001"
+   width="2048"
+   height="520"
+   viewBox="0 0 541.86666 137.58334"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
@@ -36,9 +36,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.53367496"
-     inkscape:cx="382.54183"
-     inkscape:cy="823.088"
+     inkscape:zoom="0.37736518"
+     inkscape:cx="653.80927"
+     inkscape:cy="603.34578"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -57,12 +57,16 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background" />
+  <g
+     inkscape:label="main"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-93.799983)">
@@ -77,7 +81,7 @@
        sodipodi:insensitive="true" />
     <path
        style="opacity:0.845815;fill:#eade18;fill-opacity:1;stroke:#ffffff;stroke-width:1.54896;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 88.254848,179.43598 v 57.72667 L 72.00336,226.6669 v -36.90444 z"
+       d="m 187.02299,147.87154 v 57.72667 L 170.7715,195.10246 v -36.90444 z"
        id="path2538-8-8"
        inkscape:connector-curvature="0"
        inkscape:export-filename="/home/wc4nin/path2538-8-8.png"
@@ -85,7 +89,7 @@
        inkscape:export-ydpi="45.749474" />
     <path
        style="opacity:0.60793;fill:#18beea;fill-opacity:1;stroke:#ffffff;stroke-width:1.54896;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 72.00336,226.6669 48.24663,-32.33371 -0.16182,-19.48759 -48.08481,32.50148 z"
+       d="m 170.7715,195.10246 48.24663,-32.33371 -0.16182,-19.48759 -48.08481,32.50148 z"
        id="path2540-0-50"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
@@ -94,7 +98,7 @@
        inkscape:export-ydpi="45.749474" />
     <path
        style="opacity:0.647577;fill:#ea18ce;fill-opacity:1;stroke:#ffffff;stroke-width:1.54896;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 120.24999,194.33319 -51.992096,-34.79894 28.799858,-0.0741 23.030418,15.38541 z"
+       d="m 219.01813,162.76875 -51.99209,-34.79894 28.79986,-0.0741 23.03041,15.38541 z"
        id="path2542-2-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
@@ -103,8 +107,8 @@
        inkscape:export-ydpi="45.749474" />
     <g
        id="g2607-8"
-       transform="matrix(0.92139986,0,0,0.92139986,-33.735311,-8.0247036)"
-       style="fill:#3f3f35;fill-opacity:1;stroke:#ffffff;stroke-width:1.68109;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.92139986,0,0,0.92139986,65.032834,-39.589144)"
+       style="display:inline;fill:#3f3f35;fill-opacity:1;stroke:#ffffff;stroke-width:1.68109;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="/home/wc4nin/path2538-8-8.png"
        inkscape:export-xdpi="45.749474"
        inkscape:export-ydpi="45.749474">
@@ -143,44 +147,44 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.45745px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.111133;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="118.80224"
-       y="172.75754"
+       x="217.57039"
+       y="141.1931"
        id="text2768"
        inkscape:export-filename="/home/wc4nin/path2538-8-8.png"
        inkscape:export-xdpi="45.749474"
        inkscape:export-ydpi="45.749474"><tspan
          sodipodi:role="line"
          id="tspan2766"
-         x="118.80224"
-         y="172.75754"
+         x="217.57039"
+         y="141.1931"
          style="stroke:#ffffff;stroke-width:0.111133;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">©</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.86154px;line-height:1.25;font-family:MathJax_Size1;-inkscape-font-specification:MathJax_Size1;letter-spacing:0px;word-spacing:0px;opacity:0.645;fill:#4be675;fill-opacity:1;stroke:#4c6151;stroke-width:0.908939;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="113.70887"
-       y="215.12575"
+       x="212.47702"
+       y="183.56131"
        id="text928-4-3"
        inkscape:export-filename="/home/wc4nin/path2538-8-8.png"
        inkscape:export-xdpi="45.749474"
        inkscape:export-ydpi="45.749474"><tspan
          sodipodi:role="line"
          id="tspan926-7-6"
-         x="113.70887"
-         y="215.12575"
+         x="212.47702"
+         y="183.56131"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.3356px;font-family:'Noto Sans Symbols';-inkscape-font-specification:'Noto Sans Symbols';fill:#1a1a1a;fill-opacity:1;stroke:#ffffff;stroke-width:0.908939;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"> ZSH</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.86154px;line-height:1.25;font-family:MathJax_Size1;-inkscape-font-specification:MathJax_Size1;letter-spacing:0px;word-spacing:0px;opacity:0.645;fill:#4be675;fill-opacity:1;stroke:none;stroke-width:0.908939;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="197.87109"
-       y="214.93903"
+       x="296.63925"
+       y="183.37459"
        id="text928-4-3-6"
        inkscape:export-filename="/home/wc4nin/path2538-8-8.png"
        inkscape:export-xdpi="45.749474"
        inkscape:export-ydpi="45.749474"><tspan
          sodipodi:role="line"
          id="tspan926-7-6-9"
-         x="197.87109"
-         y="214.93903"
+         x="296.63925"
+         y="183.37459"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.3356px;font-family:'Noto Sans Symbols';-inkscape-font-specification:'Noto Sans Symbols';fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.908939;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"> <tspan
    style="fill:#15bd19;fill-opacity:1;stroke:none"
    id="tspan918">P</tspan><tspan
