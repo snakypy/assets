@@ -36,9 +36,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.26683748"
-     inkscape:cx="408.4056"
-     inkscape:cy="600.92204"
+     inkscape:zoom="0.37736518"
+     inkscape:cx="585.57477"
+     inkscape:cy="195.07506"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -166,106 +166,100 @@
        id="rect853"
        style="display:none;opacity:0.949;fill:#1a1a1a;fill-opacity:1;stroke:#ffffff;stroke-width:5.22655;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        sodipodi:insensitive="true" />
+    <path
+       style="opacity:0.845815;fill:#eade18;fill-opacity:1;stroke:#ffffff;stroke-width:1.54896;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 88.254848,179.43598 v 57.72667 L 72.00336,226.6669 v -36.90444 z"
+       id="path2538-8-8"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:0.60793;fill:#18beea;fill-opacity:1;stroke:#ffffff;stroke-width:1.54896;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 72.00336,226.6669 48.24663,-32.33371 -0.16182,-19.48759 -48.08481,32.50148 z"
+       id="path2540-0-50"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="opacity:0.647577;fill:#ea18ce;fill-opacity:1;stroke:#ffffff;stroke-width:1.54896;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 120.24999,194.33319 -51.992096,-34.79894 28.799858,-0.0741 23.030418,15.38541 z"
+       id="path2542-2-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
     <g
-       id="g996"
-       inkscape:export-filename="/home/wc4nin/g996.png"
-       inkscape:export-xdpi="48.876389"
-       inkscape:export-ydpi="48.876389">
+       id="g2607-8"
+       transform="matrix(0.92139986,0,0,0.92139986,-33.735311,-8.0247036)"
+       style="fill:#3f3f35;fill-opacity:1;stroke:#ffffff;stroke-width:1.68109;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <path
-         style="opacity:0.845815;fill:#eade18;fill-opacity:1;stroke:#ffffff;stroke-width:2.467;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 215.44555,145.11862 v 91.94029 L 189.56207,220.3425 v -58.77708 z"
-         id="path2538-8-8"
-         inkscape:connector-curvature="0" />
-      <path
-         style="opacity:0.60793;fill:#18beea;fill-opacity:1;stroke:#ffffff;stroke-width:2.467;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 189.56207,220.3425 76.8416,-51.49734 -0.25772,-31.03757 -76.58388,51.76457 z"
-         id="path2540-0-50"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
+         id="path2538-8-0-6"
+         d="m 113.13959,197.44339 -62.650517,-0.25953 11.464065,-17.59049 40.052232,0.16591 z"
+         style="opacity:0.845815;fill:#3f3f35;fill-opacity:1;stroke:#ffffff;stroke-width:1.68109;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
-         style="opacity:0.647577;fill:#ea18ce;fill-opacity:1;stroke:#ffffff;stroke-width:2.467;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 266.40367,168.84516 -82.80694,-55.4237 45.86905,-0.11799 36.68017,24.50409 z"
-         id="path2542-2-6"
+         sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-      <g
-         id="g2607-8"
-         transform="matrix(1.467498,0,0,1.467498,21.153878,-153.44687)"
-         style="fill:#3f3f35;fill-opacity:1;stroke:#ffffff;stroke-width:1.68109;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
-        <path
-           inkscape:connector-curvature="0"
-           id="path2538-8-0-6"
-           d="m 113.13959,197.44339 -62.650517,-0.25953 11.464065,-17.59049 40.052232,0.16591 z"
-           style="opacity:0.845815;fill:#3f3f35;fill-opacity:1;stroke:#ffffff;stroke-width:1.68109;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           sodipodi:nodetypes="ccccc"
-           inkscape:connector-curvature="0"
-           id="path2540-0-5-2"
-           d="M 84.699966,254.50637 113.13959,197.44339 102.00537,179.75928 74.272255,236.31531 Z"
-           style="opacity:0.60793;fill:#3f3f35;fill-opacity:1;stroke:#ffffff;stroke-width:1.68109;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        <path
-           sodipodi:nodetypes="ccccc"
-           inkscape:connector-curvature="0"
-           id="path2542-2-1-8"
-           d="m 74.272255,236.31531 66.550945,1.14485 -26.06448,17.25185 -30.058754,-0.20564 z"
-           style="opacity:0.647577;fill:#3f3f35;fill-opacity:1;stroke:#ffffff;stroke-width:1.68109;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.8495px;line-height:1.25;font-family:MathJax_Size1;-inkscape-font-specification:MathJax_Size1;letter-spacing:0px;word-spacing:0px;opacity:0.645;fill:#4be675;fill-opacity:1;stroke:#4c6151;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="161.70934"
-         y="273.16882"
-         id="text928-4"><tspan
-           sodipodi:role="line"
-           id="tspan926-7"
-           x="161.70934"
-           y="273.16882"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.0778px;font-family:'Noto Sans Symbols';-inkscape-font-specification:'Noto Sans Symbols';fill:#4be675;fill-opacity:1;stroke:#4c6151;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
-             style="fill:none;stroke:#4c6151;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-             id="tspan2693"><tspan
-               style="stroke:#19b021;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               id="tspan2708">P</tspan><tspan
-               style="stroke:#c90706;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               id="tspan2706">o</tspan><tspan
-               style="stroke:#eade18;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               id="tspan2704">w</tspan><tspan
-               style="stroke:#18beea;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-               id="tspan2702">e</tspan></tspan><tspan
-             id="tspan2700"
-             style="opacity:0.645244;fill:none;fill-opacity:1;stroke:#ea18ce;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">r</tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:6.48776px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none"
-         x="228.66003"
-         y="282.35437"
-         id="text2484-4"><tspan
-           sodipodi:role="line"
-           id="tspan2482-0"
-           x="228.66003"
-           y="282.35437"
-           style="stroke:#ffffff;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">The powers for terminal.</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:7.0993px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.177;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="264.09787"
-         y="134.48201"
-         id="text2768"><tspan
-           sodipodi:role="line"
-           id="tspan2766"
-           x="264.09787"
-           y="134.48201"
-           style="stroke:#ffffff;stroke-width:0.177;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">©</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.8495px;line-height:1.25;font-family:MathJax_Size1;-inkscape-font-specification:MathJax_Size1;letter-spacing:0px;word-spacing:0px;opacity:0.645;fill:#4be675;fill-opacity:1;stroke:#4c6151;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         x="55.317768"
-         y="274.07037"
-         id="text928-4-3"><tspan
-           sodipodi:role="line"
-           id="tspan926-7-6"
-           x="55.317768"
-           y="274.07037"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:52.0778px;font-family:'Noto Sans Symbols';-inkscape-font-specification:'Noto Sans Symbols';fill:#1a1a1a;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"> ZSH</tspan></text>
+         id="path2540-0-5-2"
+         d="M 84.699966,254.50637 113.13959,197.44339 102.00537,179.75928 74.272255,236.31531 Z"
+         style="opacity:0.60793;fill:#3f3f35;fill-opacity:1;stroke:#ffffff;stroke-width:1.68109;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path2542-2-1-8"
+         d="m 74.272255,236.31531 66.550945,1.14485 -26.06448,17.25185 -30.058754,-0.20564 z"
+         style="opacity:0.647577;fill:#3f3f35;fill-opacity:1;stroke:#ffffff;stroke-width:1.68109;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.86154px;line-height:1.25;font-family:MathJax_Size1;-inkscape-font-specification:MathJax_Size1;letter-spacing:0px;word-spacing:0px;opacity:0.645;fill:#4be675;fill-opacity:1;stroke:#4c6151;stroke-width:2.72682;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="210.41235"
+       y="214.3063"
+       id="text928-4"><tspan
+         sodipodi:role="line"
+         id="tspan926-7"
+         x="210.41235"
+         y="214.3063"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.3356px;font-family:'Noto Sans Symbols';-inkscape-font-specification:'Noto Sans Symbols';fill:#4be675;fill-opacity:1;stroke:#4c6151;stroke-width:2.72682;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"><tspan
+           style="fill:none;stroke:#4c6151;stroke-width:2.72682;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="tspan2693"><tspan
+             style="stroke:#19b021;stroke-width:2.72682;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="tspan2708">P</tspan><tspan
+             style="stroke:#c90706;stroke-width:2.72682;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="tspan2706">o</tspan><tspan
+             style="stroke:#eade18;stroke-width:2.72682;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="tspan2704">w</tspan><tspan
+             style="stroke:#18beea;stroke-width:2.72682;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="tspan2702">e</tspan></tspan><tspan
+           id="tspan2700"
+           style="opacity:0.645244;fill:none;fill-opacity:1;stroke:#ea18ce;stroke-width:2.72682;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">r</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.89698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.227235;stroke-miterlimit:4;stroke-dasharray:none"
+       x="271.26645"
+       y="222.6554"
+       id="text2484-4"><tspan
+         sodipodi:role="line"
+         id="tspan2482-0"
+         x="271.26645"
+         y="222.6554"
+         style="stroke:#ffffff;stroke-width:0.227235;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">The powers for terminal.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.45745px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.111133;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="118.80224"
+       y="172.75754"
+       id="text2768"><tspan
+         sodipodi:role="line"
+         id="tspan2766"
+         x="118.80224"
+         y="172.75754"
+         style="stroke:#ffffff;stroke-width:0.111133;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">©</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.86154px;line-height:1.25;font-family:MathJax_Size1;-inkscape-font-specification:MathJax_Size1;letter-spacing:0px;word-spacing:0px;opacity:0.645;fill:#4be675;fill-opacity:1;stroke:#4c6151;stroke-width:0.908939;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="113.70887"
+       y="215.12575"
+       id="text928-4-3"><tspan
+         sodipodi:role="line"
+         id="tspan926-7-6"
+         x="113.70887"
+         y="215.12575"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.3356px;font-family:'Noto Sans Symbols';-inkscape-font-specification:'Noto Sans Symbols';fill:#1a1a1a;fill-opacity:1;stroke:#ffffff;stroke-width:0.908939;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"> ZSH</tspan></text>
   </g>
 </svg>
